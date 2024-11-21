@@ -1,3 +1,4 @@
+// Arrow functions inherit the this value from their surrounding scope.
 var userName = "Sooraj";
 
 var person = {
