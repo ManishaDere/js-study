@@ -21,4 +21,14 @@ const students = [
     56: "John",
     57: "Hannes",
   };
+
+  const arr = [1,2,3,9,4,5,6];
+  const max = arr.reduce((acc, item) => {
+    if(acc < item) {
+      acc = item;
+    }
+    return acc;
+  }, 0);
+
+  console.log("max ==>", max);
   
