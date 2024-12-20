@@ -1,0 +1,87 @@
+1. HTML/CSS
+Fundamentals:
+
+How do you create a responsive design using CSS?
+Explain the difference between inline, block, and inline-block elements.
+What are CSS pseudo-classes and pseudo-elements? Give examples.
+What is the difference between relative, absolute, and fixed positioning in CSS?
+How does the CSS z-index property work?
+Advanced Topics:
+
+How would you optimize rendering of complex CSS animations?
+Explain the differences between CSS Grid and Flexbox. When would you use one over the other?
+What are the advantages of using CSS pre-processors like SASS or LESS?
+How do you ensure cross-browser compatibility for modern CSS features?
+2. JavaScript (ES6+ and Beyond)
+Core Concepts:
+
+Explain how JavaScript’s event delegation works.
+What is the difference between let, const, and var?
+What is the difference between shallow copy and deep copy in JavaScript? How would you implement a deep copy?
+Explain the differences between synchronous and asynchronous JavaScript.
+What is the difference between call, apply, and bind in JavaScript?
+Advanced Topics:
+
+How would you implement a custom debounce function in JavaScript?
+What are the main differences between ES6 classes and function constructors?
+Explain how the JavaScript event loop works. What are microtasks and macrotasks?
+What are JavaScript modules, and why are they important?
+What are weak references in JavaScript? When would you use them?
+3. React and Redux
+React Basics:
+
+What are the differences between class components and functional components in React?
+Explain the purpose of React’s useEffect and useState hooks with examples.
+How does the virtual DOM work in React?
+What are React keys, and why are they important in lists?
+What is the difference between controlled and uncontrolled components in React?
+Advanced React:
+
+How would you optimize performance in a large React application?
+What is React’s Context API, and when would you use it instead of Redux?
+Explain the concept of Higher-Order Components (HOCs) and how they differ from render props.
+How does React handle error boundaries? Can you provide an example?
+What is React Server-Side Rendering (SSR), and how does it differ from Client-Side Rendering (CSR)?
+Redux:
+
+What is the purpose of middleware in Redux? Can you give examples of commonly used middleware?
+How would you handle large-scale state management in a React application using Redux?
+What are the differences between Redux Toolkit and traditional Redux?
+How does Redux handle asynchronous actions? Explain redux-thunk or redux-saga.
+What is the difference between useDispatch and useSelector hooks in Redux?
+4. API Integration (RESTful APIs)
+What is the difference between REST and GraphQL APIs?
+How would you handle errors when consuming a REST API in a React application?
+Explain the lifecycle of an HTTP request. What are the common HTTP methods and their use cases?
+How do you handle authentication and authorization in a frontend application consuming REST APIs?
+How would you implement pagination when fetching data from an API?
+5. GIT/GitHub and Version Control
+What is the difference between git fetch, git pull, and git clone?
+How would you resolve merge conflicts in GIT?
+Explain the purpose of branching in GIT and best practices for using branches in a project.
+How do you revert a commit in GIT? When would you use git reset vs git revert?
+What are the benefits of using GitHub Actions for CI/CD workflows?
+6. General Frontend Architecture
+How would you structure a large-scale React project?
+What are the key considerations for ensuring frontend code maintainability?
+Explain how you would implement lazy loading in a React application.
+How do you optimize frontend performance (e.g., reducing bundle size)?
+What strategies would you use to manage shared state in a React application without Redux?
+7. Behavioral Questions
+Describe a challenging project you worked on. How did you overcome the challenges?
+How do you handle disagreements within a team regarding code or architecture decisions?
+Have you ever improved an existing project’s performance? If so, how?
+How do you prioritize tasks when working on multiple features simultaneously?
+Describe a time when you mentored a junior developer. What was your approach?
+8. Coding Challenges
+Write a React component to fetch and display data from a REST API with loading and error states.
+Implement a debounce function in JavaScript.
+Write a function to flatten a deeply nested array.
+Implement a React counter component with +, -, and reset buttons.
+Implement a React useWindowSize custom hook.
+How to Prepare:
+Master Fundamentals: HTML, CSS, JavaScript ES6+, and React.
+Build Projects: Showcase your understanding of React, Redux, and API integrations.
+Know Tooling: Familiarize yourself with Git and CI/CD practices.
+Practice Algorithms: Use sites like LeetCode or HackerRank for practice.
+Behavioral Skills: Be prepared to discuss past projects, challenges, and contributions.
